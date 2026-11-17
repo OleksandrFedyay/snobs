@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="deeplink_scheme">https</string>
+    <string name="deeplink_host_url">kingfishertom.page.link</string>
+    <string name="facebook_app_id">1705901329898760</string>
+    <string name="fb_login_protocol_scheme">fb1705901329898760</string>
+    <string name="facebook_client_token">9806589c5bf9c5febd32dfdf45b3050e</string>
+</resources>

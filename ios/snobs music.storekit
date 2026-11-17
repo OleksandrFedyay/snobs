@@ -1,0 +1,143 @@
+{
+  "identifier" : "CEFFA671",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6447648195",
+    "_developerTeamID" : "J6DXSYXAZC",
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 733674320.513026,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21466343",
+      "localizations" : [
+
+      ],
+      "name" : "SNOBS Premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "7.95",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6480411226",
+          "introductoryOffer" : {
+            "internalID" : "AB5B124E",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3M"
+          },
+          "localizations" : [
+            {
+              "description" : "Three Month Trial then $7.95/month",
+              "displayName" : "Snobs Premium",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "snob_7_month",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Snobs music Premium",
+          "subscriptionGroupID" : "21466343",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "7.95",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6479693579",
+          "introductoryOffer" : {
+            "internalID" : "A9BF6047",
+            "numberOfPeriods" : 1,
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P3M"
+          },
+          "localizations" : [
+            {
+              "description" : " Three Month Trial then $7.95/month",
+              "displayName" : "SNOBS Premium",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "snob_7.95_month",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "SNOBS Premium",
+          "subscriptionGroupID" : "21466343",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "subscriptionOffersKeyPair" : {
+    "id" : "2D488D82",
+    "privateKey" : "MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgf3PBOUNUu5VBAZru/AnCfzzA4k1UzEIbDdIISKHzAeygCgYIKoZIzj0DAQehRANCAARGPojEiei0n7+z/JhZ7accfNEIRg4qTcDCv8vCTwivKjdo5FiRvlsW7DO2XSJJOVHgqU/XVJ0pjK01FsFAexVv"
+  },
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

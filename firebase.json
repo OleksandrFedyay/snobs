@@ -1,0 +1,40 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "kingfishertom-e7576",
+          "appId": "1:352804208497:android:7be0df1409209bca2900d0",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "kingfishertom-e7576",
+          "appId": "1:352804208497:ios:bff187e1f68523012900d0",
+          "uploadDebugSymbols": true,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "kingfishertom-e7576",
+          "configurations": {
+            "android": "1:352804208497:android:7be0df1409209bca2900d0",
+            "ios": "1:352804208497:ios:bff187e1f68523012900d0",
+            "web": "1:352804208497:web:063e6eaef7c718152900d0"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "site": "snobs-com",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

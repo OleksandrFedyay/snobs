@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "352804208497",
+    "project_id": "kingfishertom-e7576",
+    "storage_bucket": "kingfishertom-e7576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352804208497:android:7be0df1409209bca2900d0",
+        "android_client_info": {
+          "package_name": "com.kingfishertom.snobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352804208497-d4drg4nl5ijb5fl8jfccsip5cpm0ts3t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingfishertom.snobs",
+            "certificate_hash": "35f510e50d858a039c9807a32eacc26594c64a81"
+          }
+        },
+        {
+          "client_id": "352804208497-j3cv8lj0fhro51khtvhgm70qg2mtjrj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingfishertom.snobs",
+            "certificate_hash": "7ea2e82a28b9db44efdca8ea964bdd70909a8a1e"
+          }
+        },
+        {
+          "client_id": "352804208497-k7vb806v01qrku7a42ir19n7ilisqsv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingfishertom.snobs",
+            "certificate_hash": "52f8e0f2ea3c71460eb8a363257a5f3309405f2b"
+          }
+        },
+        {
+          "client_id": "352804208497-mskmn24nard9koo8k9l3maeceq91c4hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingfishertom.snobs",
+            "certificate_hash": "e9627d88cfa78a443823a3e06639663e15eee217"
+          }
+        },
+        {
+          "client_id": "352804208497-pidcap4alviuva05drd39bhp2lpno8ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingfishertom.snobs",
+            "certificate_hash": "fa9506b08e6c6a8069ac8a7bff6dae1d1da6b4cd"
+          }
+        },
+        {
+          "client_id": "352804208497-psvf10bcl00dg29ogbg5i934q7u01lln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingfishertom.snobs",
+            "certificate_hash": "3b855e01258c2413548bf9a89612853663ae0b3f"
+          }
+        },
+        {
+          "client_id": "352804208497-t5v3c7ca473q908u0fmali7bipkiej2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB56zRbx7pP2fFLiufcSzcwQTLlKllrwRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352804208497-t5v3c7ca473q908u0fmali7bipkiej2e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352804208497-c1ihot25i69ljrovf9jlaiooectub46c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kingfishertom.snobs",
+                "app_store_id": "6447648195"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,604 @@
+{
+    "@@locale": "en",
+    "next": "Next",
+    "explore": "Explore",
+    "somethingWentWrong": "Something went wrong",
+    "snobs": "snobs",
+    "enterEmailAddress": "Enter Email Address",
+    "invalidEmail": "Invalid Email",
+    "finish": "finish",
+    "goBack": "Go Back",
+    "enterPassword": "Enter password",
+    "createPassword": "Create password",
+    "emptyFieldMessage": "The field cannot be empty",
+    "invalidPassword": "Invalid password",
+    "enterMobileNumber": "Enter Mobile Number",
+    "invalidMobileNumber": "Invalid Mobile Number",
+    "enterCode": "Enter Code",
+    "submit": "Submit",
+    "more": "More",
+    "here": "Here",
+    "noItems": "No items found",
+    "appVersionCopiedClipboard": "App version copied to clipboard!",
+    "resendCode30Sec": "Resend code : {second} sec",
+    "@resendCode30Sec": {
+        "placeholders": {
+            "second": {
+                "type": "int"
+            }
+        }
+    },
+    "resendCode": "Resend Code",
+    "searchCountry": "Search country",
+    "selectGenre": "Select Genre",
+    "about": "About",
+    "favorite": "Favorite",
+    "favorites": "Favorites",
+    "myProfile": "My Profile",
+    "artist": "Artist",
+    "fans": "Fans",
+    "searchArtists": "Search Artists",
+    "searchCollections": "Search Collections",
+    "changePhoto": "Change Photo",
+    "setupYour": "Setup Your {name}",
+    "@setupYour": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            }
+        }
+    },
+    "password": "Password",
+    "email": "Email",
+    "name": "Name",
+    "save": "Save",
+    "verify": "Verify",
+    "verifyMobileNumber": "Verify Mobile Number",
+    "weHaveSentDigitCodeTo": "We have sent a {number} digit Code to",
+    "@weHaveSentDigitCodeTo": {
+        "placeholders": {
+            "number": {
+                "type": "int"
+            }
+        }
+    },
+    "done": "Done",
+    "cancel": "Cancel",
+    "songs": "Songs",
+    "moreSongs": "More Songs",
+    "collections": "Collections",
+    "allLiked": "All Liked",
+    "createNewCustomCollection": "Create new custom collection",
+    "unlike": "Unlike",
+    "noGoBack": "NO, GO BACK",
+    "yesUnlike": "YES, UNLIKE",
+    "thisWillRemove": "This will remove this artist from all your collections.",
+     "unlikeArtistFrom": "Unlike {name}?",
+        "@unlikeArtistFrom": {
+            "placeholders": {
+                "name": {
+                    "type": "String"
+                }
+            }
+        },
+    "thisWillRemoveArtistFrom": "Remove {name} from your {list}?",
+    "@thisWillRemoveArtistFrom": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            },
+            "list": {
+                "type": "String"
+            }
+        }
+    },
+    "nameRemovedFromList": "{name} removed from {list}",
+    "@nameRemovedFromList": {
+        "placeholders": {
+            "name": {
+                "type": "String"
+            },
+            "list": {
+                "type": "String"
+            }
+        }
+    },
+    "sendFeedback": "Send feedback",
+    "library": "Library",
+    "liked": "Liked",
+    "notLikedYet": "Not liked yet",
+    "swipe": "Swipe",
+    "reportAnIssue": "Report an Issue",
+    "requestFeature": "Request a Feature",
+    "giveFeedback": "Give Feedback",
+    "howCanWeHelpYou": "How can we help you?",
+    "weWouldLoveToHearYourIdeas": "We would love to hear your ideas",
+    "weWouldLoveToKnowWhatYouThink": "We would love to know what you think of the app",
+    "writeYourIssuesHere": "Write your issues here...",
+    "shareYourThoughtsHere": "Share your thoughts here...",
+    "shareYouFeedbackHere": "Share you feedback here...",
+    "thankYouForFeedback": "Thank you for your feedback! We are working hard to improve our app and will review ASAP",
+    "close": "Close",
+    "thankYouForSharing": "Thank you for sharing!",
+    "thankYouForSharingFeedback": "Thank you for sharing your feedback with us!",
+    "rateUsOnStore": "Rate us on {store} Store",
+    "@rateUsOnStore": {
+        "placeholders": {
+            "store": {
+                "type": "String"
+            }
+        }
+    },
+    "ifYouLoveApp": "If you love our app, please take a moment to rate it in the {store} Store",
+    "@ifYouLoveApp": {
+        "placeholders": {
+            "store": {
+                "type": "String"
+            }
+        }
+    },
+    "rateUs": "Rate us",
+    "deleteCollect": "Delete ‘{collect}’?",
+    "@deleteCollect": {
+        "placeholders": {
+            "collect": {
+                "type": "String"
+            }
+        }
+    },
+    "deletingCollectionDoesNot": "Deleting a collection does not remove liked artists from your library",
+    "yesDelete": "Yes, Delete",
+    "sortBy": "Sort by",
+    "sortByAz": "Sort by A-Z",
+    "sortByDateAdded": "Sort by Date Added",
+    "likedArtists": "Liked Artists",
+    "evaluateArtists": "Evaluate {amount} Artists",
+    "@evaluateArtists": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "snapchat": "Snapchat",
+    "others": "Others",
+    "subgenres": "Subgenres",
+    "whatNeedsUpdating": "What needs updating?",
+    "artistName": "Artist Name",
+    "artistImage": "Artist Image",
+    "bio": "Bio",
+    "genreSubgenre": "Genre / Subgenre",
+    "pleaseProvideDetailsHere": "Please provide details here...",
+    "wakeup": "Wakeup",
+    "workout": "Workout",
+    "travel": "Travel",
+    "focus": "Focus",
+    "party": "Party",
+    "relax": "Relax",
+    "searchArtistsCollectionsInLibrary": "Search for Artists or Collections in your library",
+    "checkoutLater": "Checkout Later",
+    "oldPassword": "Old password",
+    "youveSwipedTimes": "You’ve swiped {number} times in {genre}. Swipe {amount} more times to earn this badge.",
+    "@youveSwipedTimes": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            },
+            "number": {
+                "type": "int"
+            },
+            "genre": {
+                "type": "String"
+            }
+        }
+    },
+    "startSwiping": "Start Swiping",
+    "noArtistsLeft": "No {genre} Artists Left",
+    "@noArtistsLeft": {
+        "placeholders": {
+            "genre": {
+                "type": "String"
+            }
+        }
+    },
+    "switchGenreToContinueExploring": "Switch Genre to continue exploring",
+    "switchGenre": "Switch Genre",
+    "skip": "Skip",
+    "logOut": "Log out",
+    "checkoutMyCollection": "Checkout my collection of top artists in {collect} on Snobs App",
+    "@checkoutMyCollection": {
+        "placeholders": {
+            "collect": {
+                "type": "String"
+            }
+        }
+    },
+    "comingSoon": "Coming Soon",
+    "newWord": "New",
+    "hot": "Hot",
+    "emerging": "Emerging",
+    "termsConditions": "Terms & Conditions",
+    "privacyPolicy": "Privacy Policy",
+    "deleteAccount": "Delete Account",
+    "noInternetConnection": "No Internet connection",
+    "delete": "Delete",
+    "share": "Share",
+    "rename": "Rename",
+    "earnBadges": "Earn Badges",
+    "swipe100timesInAnySubgenreToEarn": "Swipe 100 times in any subgenre to earn a badge. Once earned, they will show here.",
+    "subscriptions": "Subscriptions",
+    "notifications": "Notifications",
+    "support": "Support",
+    "areYouSureYouWantToDeleteYourAccount": "Are you sure you want to delete your account?",
+    "thisActionCannotBeUndone": "This action cannot be undone",
+    "getRealTimeNotificationsAndAlerts": "Get real time notifications and alerts",
+    "turnOff": "Turn OFF",
+    "turnOn": "Turn On",
+    "allSubgenres": "All Subgenres",
+    "addSubgenre": "Add a subgenre",
+    "confirm": "Confirm",
+    "wouldYouLikeToAdd": "Would you like to add {genre} to {artist} in your account?",
+    "@wouldYouLikeToAdd": {
+        "placeholders": {
+            "artist": {
+                "type": "String"
+            },
+            "genre": {
+                "type": "String"
+            }
+        }
+    },
+    "wouldYouLikeToRemove": "Would you like to remove {genre} from {artist} in your account?",
+    "@wouldYouLikeToRemove": {
+        "placeholders": {
+            "artist": {
+                "type": "String"
+            },
+            "genre": {
+                "type": "String"
+            }
+        }
+    },
+    "thankYou": "Thank You",
+    "willIncludedInYourCollection": "{artist} will be included in your {genre} collection if added to your library",
+    "@willIncludedInYourCollection": {
+        "placeholders": {
+            "artist": {
+                "type": "String"
+            },
+            "genre": {
+                "type": "String"
+            }
+        }
+    },
+    "level": "Level",
+    "swipes": "Swipes",
+    "levelUpAt": "Level Up at",
+    "levelUpIn": "Level up in",
+    "snobsPremium": "Snobs Premium",
+    "niceWork": "Nice Work!",
+    "youHaveReachedLevelFor": "You've reached\nLevel {level} for {genre}!",
+    "@youHaveReachedLevelFor": {
+        "placeholders": {
+            "level": {
+                "type": "int"
+            },
+            "genre": {
+                "type": "String"
+            }
+        }
+    },
+    "exploreMoreArtistsToReachLevel": "Explore {amount} {genre} Artists to Reach Level {level}",
+    "@exploreMoreArtistsToReachLevel": {
+        "placeholders": {
+            "level": {
+                "type": "int"
+            },
+            "amount": {
+                "type": "int"
+            },
+            "genre": {
+                "type": "String"
+            }
+        }
+    },
+    "completeYourProfile": "Complete your profile",
+    "lastName": "Last Name",
+    "details": "Details",
+    "fullSongRadio": "Full Song Radio",
+    "goBeyond30SecondSongPreviews": "Go Beyond 30 Second Song Previews",
+    "claimYourFreeTrial": "Claim your free trial",
+    "limitedTimeOfferClaimNow": "Limited time offer, Claim now",
+    "subscriptionAvailableForJust": "Subscription available for just $7.99",
+    "subscriptionTrailDetailsGoogle": "30-day free trial. After the trial, $7.99/month. Subscription renews automatically unless canceled before the trial ends. Cancel anytime through Google Play settings. A subscription is not required to use the app but is needed for premium features.",
+    "subscriptionPremiumDetailsGoogle": "$7.99/month. Subscription renews automatically unless canceled before the trial ends. Cancel anytime through Google Play settings. A subscription is not required to use the app but is needed for premium features.",
+    "noCreditCardRequired": "No Credit Card Required",
+    "startdayFreeTrial": "Start {amount} day free trial",
+    "subscribe": "Subscribe",
+    "only799": "Only $7.99",
+    "@startdayFreeTrial": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "rebelation": "Rebelation",
+    "rebelationIsOurFullSongRadio": "Rebelation is our full song radio streaming partner and is the brains behind our full song radio.",
+    "rebelationPlayerGetsToKnow": "The Rebelation player gets to know you as you listen to create the perfect balance of familiar and new songs.",
+    "zipCode": "Zip Code",
+    "zipCodeShouldContainFiveDigits": "Zip code should contain five digits",
+    "limitedOffer": "Limited Offer",
+    "getDayFreeTrial": "Get {amount} Day Free Trial",
+    "@getDayFreeTrial": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "startTrial": "Start Trial",
+    "startPremium": "Start Premium",
+    "active": "Active",
+    "daysLeft": "{amount} days left",
+    "@daysLeft": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "continueTitle": "Continue",
+    "areYouSureYouWantToCancel": "Are you sure you want to cancel ",
+    "premium": "Premium",
+    "subscription": "subscription",
+    "yesCancelSubscription": "Yes, Cancel Subscription",
+    "youWillLoseAndFullSong": "You will lose full song playback",
+    "getMorePremiumForFree": "Get More Premium for Free",
+    "cancelAnytimeBeforeAndYouWontBeCharged": "Cancel anytime before {date} and you won't be charged, then $7.95 per month",
+    "@cancelAnytimeBeforeAndYouWontBeCharged": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "extendYourTrial": "Extend your trial",
+    "enjoyYourExtendedTrial": "Enjoy your Extended Trial",
+    "renews": "Renews",
+    "me": "Me",
+    "moreOptions": "more options",
+    "continueWithApple": "Continue with Apple",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithEmail": "Continue with email",
+    "continueWithSms": "Continue with sms",
+    "enterEmail": "Enter Email",
+    "startRadio": "Start Radio",
+    "noLikedArtist": "No liked artists. Would you like to explore",
+    "requestSubgenre": "Request Subgenre",
+    "pleaseShareDetailsOfSubgenre": "Please share the details of subgenre here.",
+    "writeSubgenreNameHere": "Write subgenre name here...",
+    "write2ExampleArtistNamesHere": "Write 2+ example artist names here...",
+    "badgeUpdate": "Badge Update",
+    "continueSwiping": "continue swiping",
+    "tapToListenToPreviews": "Tap to listen to previews",
+    "yourSavedArtistsAreGroupedByCollection": "Your saved artists are grouped by collection. Tap to see full list",
+    "tapOnAnyArtistToView": "Tap on any artist to view information and preview more songs",
+    "tapOnThisIconToAddRemove": "Tap on this icon to add or remove artist from your collections",
+    "getSnobsPremium": "Get Snobs Premium",
+    "weAreAnInclusiveCommunityOfMusicEnthusiasts": "We are an inclusive community of music enthusiasts",
+    "weAreGladYouAreJoiningUs": "We are glad you are joining us!",
+    "whatShouldWeCallYou": "What should we call you?",
+    "enterYourName": "Enter your name",
+    "whatGenreWouldYouLikeToExploreFirst": "What genre would you like to explore first?",
+    "hi": "Hi",
+    "all": "All",
+    "exploring": "EXPLORING",
+    "random": "Random",
+    "pressAndHoldToSelect": "Press and hold to select and move artists",
+    "selectALL": "Select ALL",
+    "remove": "Remove",
+    "swipeAll": "Swipe all",
+    "exploredSubgenres": "Explored Subgenres",
+    "unexploredSubgenres": "Unexplored Subgenres",
+    "selectUnexploredSubgenre": "Select an unexplored subgenre",
+    "noExploredSubgenres": "No Explored {genre} Subgenres",
+        "@noExploredSubgenres": {
+            "placeholders": {
+                "genre": {
+                    "type": "String"
+                }
+            }
+        },
+    "congratsExploredAllSubgenres": "Congrats you have explored all available subgenres",
+    "noUnexploredSubgenres": "No Unexplored {genre} Subgenres",
+        "@noUnexploredSubgenres": {
+            "placeholders": {
+                "genre": {
+                    "type": "String"
+                }
+            }
+        },
+    "unlockedSubgenres": "Unlocked Subgenres ({amount})",
+    "@unlockedSubgenres": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "unlockSubgenresUsingKeys": "Unlock Subgenres using keys",
+    "amountArtists": "{amount} artists ",
+    "willBeUpdated": "will be updated!",
+    "search": "Search",
+    "artists": "Artists",
+    "showingResults": "Showing {amount} results",
+    "@showingResults": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "myLiked": "My Liked",
+    "globalCharts": "Global Charts",
+    "likedSongs": "Liked Songs",
+    "artistsCharts": "Artists Charts",
+    "songsCharts": "Songs Charts",
+    "profile": "Profile",
+    "artistWillBeAddedTo": "Artist will be added to",
+    "addToMore": "Add to more",
+    "myCollections": "My Collections",
+    "createCustom": "Create Custom",
+    "createCollection": "Create Collection",
+    "artistPreview": "Artist Preview",
+    "songPreview": "Song Preview",
+    "topSongs": "Top Songs",
+    "previouslyPlayedRadios": "Previously Played Radios",
+    "add": "Add",
+    "followers": "Followers",
+    "following": "Following",
+    "quest": "Quest",
+    "genreLevels": "Genre Levels",
+    "badges": "Badges",
+    "radio": "Radio",
+    "ofLabel": "of",
+    "xp": "XP",
+    "haveMoreInfo": "Have more info on this artist? Share it with us ",
+    "completeObjectivesToEarnXP": "Complete Objectives to Earn XP",
+    "claimed": "Claimed",
+    "fullSongAdFreeExperience": "Full song, Ad free experience",
+    "shufflePlayAnyCollection": "Shuffle Play Any Collection",
+    "youNowHaveAccessToSnobsPremium": "You now have access to Snobs Premium",
+    "tapAny": "Tap any",
+    "toStartListening": "to start listening",
+    "undoLastSwipe": "Undo Last Swipe",
+    "music": "Music",
+    "nextRank": "Next rank",
+    "newRankAchieved": "New Rank Achieved",
+    "unlockGenre": "Unlock {genre}",
+    "@unlockGenre": {
+        "placeholders": {
+            "genre": {
+                "type": "String"
+            }
+        }
+    },
+    "noKeysLeft": "No Keys Left",
+    "earnKeysByAchievingNewLevelIn": "Earn keys by achieving a new level in any genre",
+    "noSubgenresUnlocked": "No Subgenres Unlocked",
+    "useKeysToUnlockYourFavoriteSubgenres": "Use keys to unlock your favorite subgenres",
+    "getPremium": "Get Premium",
+    "addPasswordToCreateNewAccount": "Add Password to Create New Account",
+    "weWillReviewASAP": "We will review ASAP",
+    "featureRequest": "Feature Request",
+    "reportIssue": "Report Issue",
+    "artistIssue": "Artist Issue",
+    "missingArtist": "Missing Artist",
+    "subgenreRequest": "Subgenre Request",
+    "pleaseShareDetailsYourIssue": "Please share the details of your issue here...",
+    "reportFeature": "Report a Feature",
+    "pleaseShareYourIdeaHere": "Please share your idea here...",
+    "pleaseShareWhatNeedsUpdating": "Please share what needs updating: bio, photos, songs etc.",
+    "shareURLToArtistsMusicPage": "Share URL to Artist’s Music page (Spotify link preferred)",
+    "yourEmail": "Your Email",
+    "pleaseShareHowWeCanHelpHere": "Please share how we can help here..",
+    "enterYourEmailToContinue": "Enter your email to continue",
+    "settings": "Settings",
+    "editProfile": "Edit Profile",
+    "feedback": "Feedback",
+    "signOut": "Sign Out",
+    "swipe10xInSubgenres": "Swipe 10x in {amount} more subgenres",
+    "@swipe10xInSubgenres": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "swipeMoreTimes": "Swipe {amount} more times",
+    "@swipeMoreTimes": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "forgotPassword": "forgot password",
+    "awesome": "Awesome",
+    "newStreakStarted": "New Streak Started!",
+    "dayStreak": "{amount} Day Streak!",
+    "@dayStreak": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "countsHowConsecutiveDaysYou": " counts how consecutive days you have explored music with Snobs",
+    "streak": "Streak",
+    "a": "A ",
+    "tags": "Tags",
+    "shuffleRadio": "Shuffle Radio",
+    "listenAgain": "Listen Again",
+    "ad": "Ad",
+    "visitSwipePageToExploreArtists": "Visit Swipe page to explore artists",
+    "noLikedArtists": "No Liked Artists",
+    "exploreArtists": "Explore Artists",
+    "myLikedArtists": "My Liked Artists",
+    "myLikedSongs": "My Liked Songs",
+    "noteSearchCaseSensitiveWeRecommend": "NOTE: Search is case sensitive. We recommend using uppercase first letter in most cases\nEx: Led Zeppelin",
+    "areWeMissingArtist": "Are we missing an artist?",
+    "letUsKnowAndWeWillLookIntoIt": "Let us know and we will look into it",
+    "visitArtistPagesToLikeSongs": "Visit Artist pages to like songs",
+    "visitSwipePageExploreArtists": "Visit Swipe page to explore artists",
+    "wouldYouLikeExplore": "Would you like to explore {subgenre}",
+    "@wouldYouLikeExplore": {
+        "placeholders": {
+            "subgenre": {
+                "type": "String"
+            }
+        }
+    },
+    "noLikedSongs": "No Liked {subgenre} Songs",
+    "@noLikedSongs": {
+         "placeholders": {
+                "subgenre": {
+                    "type": "String"
+                }
+            }
+        },
+    "noLikedArtists": "No Liked {subgenre} Artists",
+    "@noLikedArtists": {
+         "placeholders": {
+                "subgenre": {
+                    "type": "String"
+                }
+            }
+        },
+    "viewPriceAmazon": "View Price on Amazon",
+    "currentRank": "Current Rank",
+    "nextRank": "Next Rank",
+    "toLevelUp": "to level up",
+    "yesSwitchSubgenre": "Yes, switch subgenre",
+    "youTapped": "You tapped",
+    "whatWouldYouLikeDo": "What would you like to do?",
+    "viewMyCollections": "View my Collection",
+    "removeSubgenreTag": "Remove Subgenre Tag",
+    "previews": "Previews",
+    "playing": "Playing",
+    "suggestedRadio": "Suggested Radio",
+    "writeArtistNameHere": "Write artist name here...",
+    "snobsForArtists": "Snobs For Artists",
+    "getYourMusicHeard": "Get Your Music Heard",
+    "ourCommunityOfNewExplorers": "Our community of new explorers are hungry for new music.",
+    "claimYourArtistProfileToSeeHowMany": "Claim your artist profile to see how many people swipe right on your music.",
+    "setUpYourFreeAccount": "Set up your free account",
+    "noResult": "No Result",
+    "nativeAdDesc": "Ads help keep Snobs free and awesome for everyone!\n\nThanks for supporting us by swiping, exploring, and discovering.",
+    "nativeAdPremium": "To disable ads, tap here to sign up for a Snobs Premium Account.",
+    "keepExploring": "Keep exploring and liking new artists and songs to see them here!",
+    "premiumCardContent": "You can now play full songs with a Snobs Premium Trial Membership.\n\nTap the radio icon on any collection to shuffle play songs by your collected artists.\n\nYou can even play unexplored subgenres, radio will shuffle the top 25 artists.\n\nFree trial is available for a limited time, try it now and cancel anytime within 30 days and you won't be charged.\n\nWe built this especially for people who love exploring new music.\n\nWe hope you enjoy it!\n\n-Tom from Snobs"
+}

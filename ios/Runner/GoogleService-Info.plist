@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>352804208497-c1ihot25i69ljrovf9jlaiooectub46c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.352804208497-c1ihot25i69ljrovf9jlaiooectub46c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>352804208497-j3cv8lj0fhro51khtvhgm70qg2mtjrj4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNFtR9DTPUy-C4uzapKul70_GuvlvKcl8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>352804208497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kingfishertom.snobs</string>
+	<key>PROJECT_ID</key>
+	<string>kingfishertom-e7576</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kingfishertom-e7576.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:352804208497:ios:bff187e1f68523012900d0</string>
+</dict>
+</plist>
